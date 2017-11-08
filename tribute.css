@@ -1,0 +1,45 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+html {
+  font-size: 10px;
+  background-color: white;
+}
+body {
+  width: 70%;
+  margin: 0 auto;
+  background-color: #eee;
+}
+main {
+	width: 500px;
+	margin : auto;
+}
+h1 {
+  padding-top: 20px;
+  font-size: 44px;
+
+  text-align: center;
+}
+h2 {
+padding-bottom: 20px;
+  text-align: center;
+}
+h3 {
+  
+  font-size:  16px;
+}
+.timeline {
+font-size: 14px;
+
+}
+.quote {
+font-size: 16px;
+
+}
+footer p {
+width: 500px;
+	margin : auto;
+font-size: 16px;
+padding-bottom: 40px
+}
